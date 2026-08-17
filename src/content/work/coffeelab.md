@@ -1,3 +1,8 @@
+---
+title: Coffee Lab
+description: A long-term project to build a custom, open-source, ridiculously over-engineered coffee machine
+---
+
 # ☕ Coffee Lab
 
 Coffee Lab is my long-term project to build a **custom, open-source, ridiculously over-engineered coffee machine**.
